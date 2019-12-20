@@ -8,10 +8,10 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.microservicios.springboot.app.usuarios.commons</groupId>
-	<artifactId>springboot-servicio-usuarios-commons</artifactId>
+	<groupId>com.microservicios.springboot.app.usercom.commons</groupId>
+	<artifactId>springboot-servicio-usercom-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-servicio-usuarios-commons</name>
+	<name>springboot-servicio-usercom-commons</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -37,13 +37,13 @@
 		</dependency>
 	</dependencies>
 
-	<!-- <build>
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-	</build> -->
+	</build>
 
 </project>
